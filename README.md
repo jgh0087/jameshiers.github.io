@@ -1,9 +1,9 @@
 # **James Hiers Portfolio**
 ## Technical Writing Work
 
-<p> This repository contains an assortment of professional work demonstrating my skills and abilities. Below is a breakdown of the work contained. </p>
+This repository contains an assortment of professional work demonstrating my skills and abilities. Below is a breakdown of the work contained.
 
-<p> And let's see what happens *here*. </p>
+And let's see what happens *here*.
 
 
 | Title         | Type of Work          | Filename  |
