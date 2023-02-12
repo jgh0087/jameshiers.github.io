@@ -3,7 +3,7 @@
 
 <p> This repository contains an assortment of professional work demonstrating my skills and abilities. Below is a breakdown of the work contained. </p>
 
-<p> And let's see what happens **here**. </p>
+<p> And let's see what happens *here*. </p>
 
 
 | Title         | Type of Work          | Filename  |
