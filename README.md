@@ -10,4 +10,4 @@ And let's see what happens *here*.
 | ------------- | --------------------- | ---------|
 | An Introduction to Fishkeeping      | Informational Flyer        |     Fishkeeping Handout |
 | Northwest Heritage Quail Procedural Manual      | Employment Manual              |       NHQ Manual |
-| zebra stripes | are neat              |        $1 |
+| To Be Continued | Who Knows              | Wow |
