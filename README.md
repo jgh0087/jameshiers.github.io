@@ -2,6 +2,7 @@
 ## Technical Writing Work
 
 This repository contains an assortment of professional work demonstrating my skills and abilities. Below is a breakdown of the work contained.
+
 And let's see what happens *here*.
 
 
