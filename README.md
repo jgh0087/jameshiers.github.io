@@ -1,6 +1,10 @@
-#James Hiers 
-##Portfolio of Technical Writing Work
+# **James Hiers Portfolio**
+## Technical Writing Work
 
-## Here we go. What's up y'all?
+> This contains an assortment of professional work demonstrating 
 
-Let's get to **work** _everyone_**_!!!_**
+| Title         | Type of Work          | Filename  |
+| ------------- |:---------------------:| ---------:|
+| col 3 is      | right-aligned         |     $1600 |
+| col 2 is      | centered              |       $12 |
+| zebra stripes | are neat              |        $1 |
